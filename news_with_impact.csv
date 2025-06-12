@@ -1,0 +1,265 @@
+date,headline,sentiment_label,sentiment_score,company,next_month_return,impact
+2023-05-01,[Delayed] META: 1Q23 Key Takeaways,neutral,0.5,META,-1.6201990295254487,-1.0
+2023-11-01,[Delayed] META: Pros & Cons from 3Q23,neutral,0.5,META,-0.3142536475869817,0.0
+2023-10-01,"AMZN: Amazon testing 'Buy Again' feature on app, WSJ reports",neutral,0.5,AMZN,,
+2023-09-01,AMZN: Amazon announces Prime Big Deal Days,neutral,0.5,AMZN,0.0,0.0
+2023-09-01,AMZN:  FAA authorizes UPS Flight Forward and uAvionix for longer drone flights,neutral,0.5,AMZN,0.0,0.0
+2023-07-01,[Delayed] GOOGL: Google SGE and Advertising Call Takeaways,neutral,0.5,GOOGL,,
+2023-06-01,[Delayed] Amazon.com: AMZN 40%+ of US E-Comm & Should Be Largest US Retailer in ‘24; We Think E-Comm Could Be 40%+ of Retail L,positive,1.0,AMZN,1.2055062311639775,1.0
+2023-06-01,[Delayed] Internet: Updating JPM US E-Comm Model; Expect Modestly Higher Growth & Share Gains Through 2023; AMZN Best Idea,positive,1.0,AMZN,1.2055062311639775,1.0
+2023-04-01,"[Delayed] Internet: Thoughts on 1Q E-Commerce, AMZN & EBAY Previews; 1Q Decel, But Expectations Low & Comps Manageable; AMZN",positive,1.0,AMZN,,
+2023-04-01,AMZN: Ofcom proposes to refer U.K. cloud market for investigation,neutral,0.5,AMZN,,
+2023-03-01,"[Delayed] Internet: Updating JPM US E-Comm Model; Expecting 8% E-Comm Growth, Accelerating & Gaining Share Through ‘23; AMZN a",positive,1.0,AMZN,-0.043398068785949206,0.0
+2023-02-01,[Delayed] Amazon.com: AMZN 10-K Key Takeaways,neutral,0.5,AMZN,7.37993342843557,1.0
+2023-01-01,"[Delayed] Internet: Thoughts on 4Q E-Commerce, AMZN & EBAY Previews; Decent 4Q Against Low Expectations; AMZN Best Idea",positive,1.0,AMZN,,
+2023-01-01,[Delayed] Internet: Survey Says Investors Expect Internets to Slightly Outperform SPX in ‘23; META Favorite Mega-Cap; MTCH &,positive,1.0,META,,
+2023-12-01,AMZN: Amazon.com resumed with a Strong Buy at Raymond James,positive,1.0,AMZN,-1.4894919404203177,-1.0
+2023-12-01,Is Amazon Stock A Buy After AMZN Hit A New 52-Week High?,neutral,0.5,AMZN,-1.4894919404203177,-1.0
+2023-12-01,AMZN: Amazon.com CEO: Have to pay attention to some of the danger of generative AI,neutral,0.5,AMZN,-1.4894919404203177,-1.0
+2023-12-01,"GOOGL: Microsoft got an AI boost, it's far from over, Barron's says",positive,1.0,GOOGL,-1.9642044592749874,-1.0
+2023-11-01,AMZN: Amazon debuts AI-powered Amazon Titan Image Generator,neutral,0.5,AMZN,0.781021897810219,0.0
+2023-11-01,"AMZN: Amazon cloud division head criticizes Microsoft's OpenAI turmoil, FT says",negative,0.0,AMZN,0.781021897810219,0.0
+2023-11-01,"AMZN: Amazon debuts Q, a generative A.I.  'powered assistant designed for work'",neutral,0.5,AMZN,0.781021897810219,0.0
+2023-11-01,"AMZN: AWS, Nvidia announce strategic collaboration over generative AI",positive,1.0,AMZN,0.781021897810219,0.0
+2023-11-01,"AMZN: OpenAI's customers consider defecting to Google, others, The Information says",neutral,0.5,AMZN,0.781021897810219,0.0
+2023-11-01,"AMZN: Amazon cutting 'several hundred' Alexa jobs, Reuters reports",negative,0.0,AMZN,0.781021897810219,0.0
+2023-11-01,"AMZN: Amazon working on new conversational AI software, Information reports",neutral,0.5,AMZN,0.781021897810219,0.0
+2023-11-01,Is Amazon Stock A Buy As AMZN Shows Strength After Earnings Beat?,positive,1.0,AMZN,0.781021897810219,0.0
+2023-11-01,AMZN: AWS announces Amazon EC2 Capacity blocks for ML workloads,negative,0.0,AMZN,0.781021897810219,0.0
+2023-10-01,"NVDA: Biden issues executive order on 'safe, secure, and trustworthy' AI",neutral,0.5,NVDA,,
+2023-10-01,AMZN: Amazon introduces AI-powered image generation to help advertisers,positive,1.0,AMZN,,
+2023-10-01,AMZN: DA Davidson technology analysts hold an analyst/industry conference call,neutral,0.5,AMZN,,
+2023-10-01,"NVDA: Nvidia spreads into AWS territory with 'cloud service,' The Information says",positive,1.0,NVDA,,
+2023-09-01,AMZN: Amazon's AWS announces five generative artificial intelligence 'innovations',neutral,0.5,AMZN,0.0,0.0
+2023-09-01,"AMZN: Amazon.com, Anthropic announce strategic collaboration to develop AI",positive,1.0,AMZN,0.0,0.0
+2023-09-01,AMZN: Amazon says LLM to make Alexa smart homes easier to control,positive,1.0,AMZN,0.0,0.0
+2023-09-01,AMZN: Amazon introduces all-new lineup of Alexa-powered smart glasses,neutral,0.5,AMZN,0.0,0.0
+2023-09-01,AMZN: Amazon says U.S. customers get access to new Echo device AI capabilities 'soon',positive,1.0,AMZN,0.0,0.0
+2023-09-01,"AMZN: Abdul Latif Jameel selects AWS as cloud provider, signs renewable energy pact",positive,1.0,AMZN,0.0,0.0
+2023-09-01,AMZN: Amazon debuts generative AI tools to help sellers list and shoppers  purchase,neutral,0.5,AMZN,0.0,0.0
+2023-09-01,AMZN: Amazon's AWS selected by BMW to power automated driving platform,positive,1.0,AMZN,0.0,0.0
+2023-08-01,"AMZN: Amazon to lean on AI tools for Thursday Night Football broadcasts, Verge reports",neutral,0.5,AMZN,-2.6425696711975033,-1.0
+2023-08-01,AMZN: Amazon uses generative AI to improve product reviews,neutral,0.5,AMZN,-2.6425696711975033,-1.0
+2023-08-01,AMZN: Rosenblatt upgrades Amazon to Buy after Q2 eases concerns,positive,1.0,AMZN,-2.6425696711975033,-1.0
+2023-08-01,"[Delayed] Raising GOOGL PT. ChatGPT has ""Awakened the Sleeping Giant""",positive,1.0,GOOGL,-2.40973014063095,-1.0
+2023-07-01,[Delayed] AI Outlook Preview to 2027E: NVDA Dominating - Raising NVDA-INTC Ests/PTs,neutral,0.5,NVDA,,
+2023-07-01,AMZN: AWS 'reaffirms its commitment to responsible generative AI',positive,1.0,AMZN,,
+2023-07-01,AMZN: Amazon Web Services announces AI-powered service AWS HealthScribe,neutral,0.5,AMZN,,
+2023-07-01,"AMZN: Meta, Google, others make promises to White House over AI, The Verge says",neutral,0.5,AMZN,,
+2023-07-01,AMZN: Citi 'incrementally confident' on Amazon after Prime Day,positive,1.0,AMZN,,
+2023-07-01,"AMZN: U.S. preparing restrictions on China's cloud access, WSJ reports",neutral,0.5,AMZN,,
+2023-06-01,"AMZN: Roth ups Amazon target to $155, names top internet mega cap pick",positive,1.0,AMZN,1.2055062311639775,1.0
+2023-06-01,AMZN: Amazon Web Services announces Generative AI Innovation Center,neutral,0.5,AMZN,1.2055062311639775,1.0
+2023-06-01,*Amazon: AWS Investing $100 Million in Generative AI Innovation Center >AMZN,neutral,0.5,AMZN,1.2055062311639775,1.0
+2023-06-01,AMZN: Amazon announces BBVA to use AWS,neutral,0.5,AMZN,1.2055062311639775,1.0
+2023-06-01,"AMZN: AWS considers using AI chips from AMD, Reuters reports",neutral,0.5,AMZN,1.2055062311639775,1.0
+2023-06-01,"AMZN: Amazon uses A.I. to screen items for damage, WSJ reports",neutral,0.5,AMZN,1.2055062311639775,1.0
+2023-05-01,"META: White House wants workers opinion on employers use of AI, Reuters reports",neutral,0.5,META,-1.6201990295254487,-1.0
+2023-05-01,"AMZN: Mizuho ups Amazon target, names a top pick for second half on AI",neutral,0.5,AMZN,1.5482606565409007,1.0
+2023-05-01,"AMZN: Amazon plans to add ChatGPT-like search to online store, Bloomberg reports",neutral,0.5,AMZN,1.5482606565409007,1.0
+2023-05-01,AMZN:  Amazon users can buy physical products in games and apps with Amazon Anywhere,neutral,0.5,AMZN,1.5482606565409007,1.0
+2023-05-01,AMZN: Amazon tells Information it plans to use AI to make content for advertisers,neutral,0.5,AMZN,1.5482606565409007,1.0
+2023-05-01,"AMZN: Amazon plans Alexa revamp with own ChatGPT technology, Insider says",neutral,0.5,AMZN,1.5482606565409007,1.0
+2023-04-01,"AMZN: Amazon reports Q1 EPS 31c with Rivian loss, consensus 21c",negative,0.0,AMZN,,
+2023-05-01,Dow Jones Surges 390 Points On Strong Jobs Report. AAPL Stock Jumps On Earnings. -- IBD,positive,1.0,AAPL,-0.6191402794976208,0.0
+2023-05-01,"AAPL: Apple shares up 2% to $168.41 after Q2 beat, buyback boost",positive,1.0,AAPL,-0.6191402794976208,0.0
+2023-05-01,AAPL: Apple announces $90B increase to share repurchase plan,positive,1.0,AAPL,-0.6191402794976208,0.0
+2023-12-01,"AAPL: Jony Ive, Altman team with departing Apple exec on AI devices, Bloomberg says",neutral,0.5,AAPL,-0.9464547165864867,0.0
+2023-12-01,"AAPL: Apple in talks with news publishers over AI deals, NY Times reports",neutral,0.5,AAPL,-0.9464547165864867,0.0
+2023-12-01,"AAPL: EU reaches tentative pact to pass AI regulation act, says Thierry Breton",positive,1.0,AAPL,-0.9464547165864867,0.0
+2023-12-01,"AAPL: Apple 'quietly' joins the AI  'frey' with its model frameworks, The Verge says",neutral,0.5,AAPL,-0.9464547165864867,0.0
+2023-11-01,AAPL: Apple says 'investing quite a bit' in generative AI,positive,1.0,AAPL,2.06932229694774,1.0
+2023-10-01,"AAPL: Apple job listings indicate plans for more generative AI, TechCrunch says",neutral,0.5,AAPL,,
+2023-10-01,"AAPL: Apple caught 'off guard' by generative AI fever, Bloomberg reports",negative,0.0,AAPL,,
+2023-09-01,"AAPL: Apple boosts spending on conversational AI, The Information says",positive,1.0,AAPL,0.0,0.0
+2023-08-01,"AAPL: Apple plans to test AI services using Foxconn servers, MacRumors reports",neutral,0.5,AAPL,-1.5464839855831802,-1.0
+2023-07-01,"[Delayed] Ultra Ethernet Consortium (AI Networking), NVDA VC Investments Ramp, Cerebras CG-1 AI Supercomputer, MBLY Thoughts, &",neutral,0.5,NVDA,,
+2023-07-01,"AAPL: Apple aiming to catch up with AI trends, says Citi",positive,1.0,AAPL,,
+2023-07-01,"AAPL: Apple jumps after report on AI push, Alphabet and Microsoft slip",positive,1.0,AAPL,,
+2023-07-01,"AAPL: Apple created framework for large language models, Bloomberg reports",neutral,0.5,AAPL,,
+2023-07-01,AAPL: Apple up 1% to $196.18 after Bloomberg report on AI tools,positive,1.0,AAPL,,
+2023-07-01,"AAPL: Apple working on tools to challenge OpenAI, Bloomberg reports",neutral,0.5,AAPL,,
+2023-06-01,"AAPL: Apple needs AI strategy, not new VR headset, Barron's says",neutral,0.5,AAPL,0.4775390082736308,0.0
+2023-06-01,"Dow Jones Falls As Apple Headset Fails To Impress; This GOOGL Partner, AI Play Soars On Earnings As Coinbase Craters -- IBD",neutral,0.5,GOOGL,0.7678629162625406,0.0
+2023-06-01,Dow Jones Pauses; This GOOGL Partner And AI Play Soars On Earnings As Coinbase Craters On SEC Probe -- IBD,neutral,0.5,GOOGL,0.7678629162625406,0.0
+2023-05-01,"AAPL: Wedbush expects Apple to discuss AI strategy, mixed reality headset at WWDC",neutral,0.5,AAPL,-0.6191402794976208,0.0
+2023-05-01,"AAPL: Apple restricts use of ChatGPT by employees, WSJ reports",negative,0.0,AAPL,-0.6191402794976208,0.0
+2023-05-01,AAPL: OpenAI announces launch of ChatGPT app for iPhone,neutral,0.5,AAPL,-0.6191402794976208,0.0
+2023-05-01,GOOGL: Alphabet downgraded to Hold on AI uncertainties at Loop Capital,negative,0.0,GOOGL,-1.7537313432835933,-1.0
+2023-04-01,"AAPL: Apple working on AI-powered health coaching service, Bloomberg says",neutral,0.5,AAPL,,
+2023-04-01,"GOOGL: Samsung represents around $20B of Google's revenue, says Barclays",neutral,0.5,GOOGL,,
+2023-04-01,"AAPL: Baidu sues Apple, app developers over fake Ernie bot apps, Reuters says",negative,0.0,AAPL,,
+2023-03-01,"GOOGL: Google facing query share loss for first time ever, says Barclays",negative,0.0,GOOGL,1.814962372731288,1.0
+2023-02-01,"META: Marketers split over Meta's AI-driven advertising system, FT reports",negative,0.0,META,23.282392894461857,1.0
+2023-05-01,[Delayed] GOOGL: Google IO 2023 Takeaways – Integrating Gen AI into the Ecosystem,neutral,0.5,GOOGL,-1.7537313432835933,-1.0
+2023-05-01,GOOGL: Checks now 'a fully integrated Google product',neutral,0.5,GOOGL,-1.7537313432835933,-1.0
+2023-04-01,"[Delayed] Internet: Online Ads 1Q23 Preview: Signs of Stabilization/Improvement Through 1Q, But Visibility Remains Limited; META",positive,1.0,META,,
+2023-02-01,"META: TikTok debuts 'TikTok Trivia,' a  live 5-day trivia game with prize pool",neutral,0.5,META,23.282392894461857,1.0
+2023-01-01,"[Delayed] Internet: Online Ads 4Q22 Preview: Solid 4Q Against Low Expectations, But Weak Dec/Jan, & Profitability Is Focus; META",negative,0.0,META,,
+2023-12-01,GOOGL: Google Cloud and HashiCorp announce expansion of partnership,positive,1.0,GOOGL,-1.9642044592749874,-1.0
+2023-12-01,"GOOGL: Gemini LLM 'important for Google branding and sentiment,' says BofA",positive,1.0,GOOGL,-1.9642044592749874,-1.0
+2023-11-01,"[Delayed] NVDA: Another Big Guide Driven by AI Momentum; Raising Estimates, PT",positive,1.0,NVDA,2.790313053750726,1.0
+2023-09-01,"NVDA: Nvidia targeting ad industry as next major chip-buying market, BI says",neutral,0.5,NVDA,0.0,0.0
+2023-02-01,META: Meta Platforms price target raised to $285 from $260 at Tigress Financial,positive,1.0,META,23.282392894461857,1.0
+2023-02-01,*Meta Platforms Expects FY23 Tax Rate Percentage to Be in the Low Twenties >META,neutral,0.5,META,23.282392894461857,1.0
+2023-02-01,*Meta Platforms Sees Lower Data Center Construction Spend in 2023 >META,positive,1.0,META,23.282392894461857,1.0
+2023-02-01,"*Meta Platforms Sees FY23 Cap Expenditures of $30B-$33B, Down From Prior View for $34B-$37B >META",negative,0.0,META,23.282392894461857,1.0
+2023-02-01,META: Meta Platforms announces $40B increase in share repurchase authorization,positive,1.0,META,23.282392894461857,1.0
+2023-02-01,*Meta Platforms Cites Slower Anticipated Growth in Payroll Expenses and Cost of Rev >META,negative,0.0,META,23.282392894461857,1.0
+2023-02-01,"*Meta Platforms Sees FY23 Total Expenses of $89B-$95B, Lower Than Prior View of $94B-$100B >META",negative,0.0,META,23.282392894461857,1.0
+2023-02-01,*Meta Platforms Sees 1Q Rev $26B-$28.5B >META,positive,1.0,META,23.282392894461857,1.0
+2023-02-01,"*Meta Platforms: Reported Headcount Includes Substantial Majority of 11,000 Employees Impacted by Layoff >META",negative,0.0,META,23.282392894461857,1.0
+2023-02-01,"*Meta Platforms Headcount Was 86,482 as of Dec 31 >META",neutral,0.5,META,23.282392894461857,1.0
+2023-02-01,*Meta Platforms Long-term Debt Was $9.92 B as of Dec 31 >META,neutral,0.5,META,23.282392894461857,1.0
+2023-02-01,"*Meta Platforms Cash, Cash Equivalents, and Marketable Securities Were $40.74 B as of Dec 31 >META",neutral,0.5,META,23.282392894461857,1.0
+2023-02-01,"*META JUMPS 14% AFTER 4Q SALES BEAT, $40B BOOST IN SHARE BUYBACK",positive,1.0,META,23.282392894461857,1.0
+2023-02-01,*Meta Platforms Announces $40 B Increase in Shr Repurchase Authorization >META,positive,1.0,META,23.282392894461857,1.0
+2023-02-01,"*Meta Platforms 4Q Capital Expenditures, Including Principal Payments on Finance Leases, Were $9.22 B >META",neutral,0.5,META,23.282392894461857,1.0
+2023-02-01,*Meta Platforms Had Charges Related to Restructuring Efforts of $4.2 B in 4Q >META,negative,0.0,META,23.282392894461857,1.0
+2023-02-01,*Meta Platforms Total Costs and Expenses Were $25.77 B in 4Q >META,neutral,0.5,META,23.282392894461857,1.0
+2023-02-01,*Meta Platforms Family Daily Active People Was 2.96 B on Avg for Dec >META,neutral,0.5,META,23.282392894461857,1.0
+2023-02-01,*Meta Platforms Focused on 'Becoming a Stronger and More Nimble Organization' >META,positive,1.0,META,23.282392894461857,1.0
+2023-02-01,*Meta Platforms Family Monthly Active People Was 3.74 B as of Dec 31 >META,neutral,0.5,META,23.282392894461857,1.0
+2023-02-01,"*Meta Platforms: Facebook MAUs Were 2.96B as of ec 31, 2022, an Increase of 2% Yr-over-Yr >META",positive,1.0,META,23.282392894461857,1.0
+2023-02-01,"*Meta Platforms: Facebook DAUs Were 2B on Avg for Dec 2022, an Increase of 4% Yr-over-Yr >META",positive,1.0,META,23.282392894461857,1.0
+2023-02-01,*Meta Platforms 4Q Daily Active Users in Last Month of Quarter 2B >META,neutral,0.5,META,23.282392894461857,1.0
+2023-02-01,*Meta Platforms 4Q Monthly Active Users Quarter End 2.96B >META,neutral,0.5,META,23.282392894461857,1.0
+2023-02-01,"*Meta Platforms: MAP Was 3.74B as of Dec 31, 2022, an Increase of 4% Yr-over-Yr >META",positive,1.0,META,23.282392894461857,1.0
+2023-02-01,"*META PLATFORMS SHARES JUMP 13% ON EARNINGS, BUYBACK PLAN",positive,1.0,META,23.282392894461857,1.0
+2023-02-01,"*Meta Platforms: DAP Was 2.96B on Avg for Dec 2022, an Increase of 5% Yr-over-Yr >META",positive,1.0,META,23.282392894461857,1.0
+2023-02-01,*META ANNOUNCES $40B BOOST IN SHARE BUYBACK AUTHORIZATION,positive,1.0,META,23.282392894461857,1.0
+2023-02-01,*META ANNOUNCED TODAY $40B BOOST IN SHARE BUYBACK AUTHORIZATION,positive,1.0,META,23.282392894461857,1.0
+2023-02-01,*Meta Platforms 4Q Rev $32.17B >META,neutral,0.5,META,23.282392894461857,1.0
+2023-02-01,*Meta Platforms 4Q Net $4.65B >META,neutral,0.5,META,23.282392894461857,1.0
+2023-02-01,*Meta Platforms 4Q EPS $1.76 >META,neutral,0.5,META,23.282392894461857,1.0
+2023-05-01,META - Submission of Sustainability Report,neutral,0.5,META,-1.6201990295254487,-1.0
+2023-04-01,META: Meta Platforms price target raised to $320 from $240 at Guggenheim,positive,1.0,META,,
+2023-03-01,META: Meta's Oversight Board upholds decision in 'Sri Lanka pharmaceuticals' case,negative,0.0,META,0.6400645830930696,0.0
+2023-02-01,META: Meta testing subscription service for $11.99 a month,neutral,0.5,META,23.282392894461857,1.0
+2023-02-01,"[Delayed] META: Checking the Boxes; Maintain OW, Raise PT to $250",positive,1.0,META,23.282392894461857,1.0
+2023-01-01,META: Privacy chief of Canada: Home Depot shared personal customer data with Meta,neutral,0.5,META,,
+2023-12-01,"META: Meta Platforms's AI announcements to lead to recurring revenue, says BofA",positive,1.0,META,-1.4777415183794163,-1.0
+2023-12-01,"META: Tech giants like Meta, OpenAI, and Microsoft 'commit' to AMD AI chip, BNN says",neutral,0.5,META,-1.4777415183794163,-1.0
+2023-12-01,*META TO USE NEW AMD MI300X CHIPS IN ITS DATA CENTERS,positive,1.0,META,-1.4777415183794163,-1.0
+2023-12-01,*META TESTS NEW AI FEATURES ACROSS APPS IN BID TO BOOST APPEAL,positive,1.0,META,-1.4777415183794163,-1.0
+2023-12-01,META-STADIUMS TEAMS UP WITH AI-METAVERSE COMPANY MEETKAI AND FIFA LICENSED MATCH AGENT TO LAUNCH THE ULTIMATE SOCCER UNIVERSE,positive,1.0,META,-1.4777415183794163,-1.0
+2023-12-01,"META: IBM, Meta announce the launch of the AI Alliance, 50 founding members",neutral,0.5,META,-1.4777415183794163,-1.0
+2023-12-01,"*META, IBM CREATE AI ALLIANCE TO PROMOTE OPEN SOURCE DEVELOPMENT",neutral,0.5,META,-1.4777415183794163,-1.0
+2023-11-01,*META HEAD OF AUGMENTED REALITY SOFTWARE STEPPING DOWN: REUTERS,neutral,0.5,META,-0.3142536475869817,0.0
+2023-11-01,*META TO REQUIRE DISCLOSURE ON POLITICAL ADS USING AI,neutral,0.5,META,-0.3142536475869817,0.0
+2023-11-01,CGS Receives Silver MUSE Creative Award 2023 for Pioneering XR and Generative AI Training Solution with Scoot Airlines and META,positive,1.0,META,-0.3142536475869817,0.0
+2023-10-01,*DELL & META TO DRIVE GENERATIVE AI INNOVATION WITH LLAMA 2,positive,1.0,META,,
+2023-10-01,META: Meta Platforms says AI will be biggest investment area in 2024,neutral,0.5,META,,
+2023-10-01,"META: Meta Platforms faces review from Oversight Board over edited video, FT says",negative,0.0,META,,
+2023-10-01,*META'S AI TOOLS FOR ADS FIRST RELEASED IN MAY TO A TEST GROUP,neutral,0.5,META,,
+2023-10-01,*META EXPANDS USE OF GENERATIVE AI TOOLS FOR ADVERTISERS,positive,1.0,META,,
+2023-10-01,"META: Meta looks like AI winner, enough of Metaverse, Barron's says",positive,1.0,META,,
+2023-09-01,META: Oppenheimer reiterates Outperform on Meta following Connect AI announcements,negative,0.0,META,0.0,0.0
+2023-09-01,"META: Meta Platforms sold off on high AI expectations, says JPMorgan",positive,1.0,META,0.0,0.0
+2023-09-01,"META: Meta AI assistant could prove to be TAM expansionary event, says KeyBanc",negative,0.0,META,0.0,0.0
+2023-09-01,Chatbots-de-IA-de-celebridades-estarán-disponibles-con-META-AI,neutral,0.5,META,0.0,0.0
+2023-09-01,"*MARKEY WRITES META OVER AI CHATBOT, CHILD PRIVACY: POLITICO",neutral,0.5,META,0.0,0.0
+2023-09-01,*ZUCKERBERG CONCLUDES CEO KEYNOTE AT META CONNECT CONFERENCE,neutral,0.5,META,0.0,0.0
+2023-09-01,*TOM BRADY TO BE FACE OF SPORTS TRIVIA META CHATBOT: ZUCKERBERG,neutral,0.5,META,0.0,0.0
+2023-09-01,"*META INTRODUCES CHARACTER CHATBOTS WITH SNOOP DOGG, DWYANE WADE",neutral,0.5,META,0.0,0.0
+2023-09-01,"*META TO LAUNCH TOPIC-SPECIFIC CHATBOTS FOR TRAVEL, FOOD, OTHERS",neutral,0.5,META,0.0,0.0
+2023-09-01,*ZUCKERBERG SAYS META AI CHATBOT TO HAVE MICROSOFT BING SEARCH,neutral,0.5,META,0.0,0.0
+2023-09-01,*META AI CHATBOT TO LAUNCH ON META APPS: ZUCKERBERG,neutral,0.5,META,0.0,0.0
+2023-09-01,*META TO OPEN AI CHATBOT DEVELOPER PLATFORM: ZUCKERBERG,neutral,0.5,META,0.0,0.0
+2023-09-01,*AI-GENERATED STICKERS TO LAUNCH ON META APPS: CEO,neutral,0.5,META,0.0,0.0
+2023-09-01,*ZUCKERBERG INTRODUCES META AI TOOLS FOR CONSUMER APPS,neutral,0.5,META,0.0,0.0
+2023-09-01,*ZUCKERBERG SAYS MICROSOFT 365 TO LAUNCH ON META QUEST THIS YEAR,neutral,0.5,META,0.0,0.0
+2023-09-01,*META QUEST FOR BUSINESS TO LAUNCH IN OCTOBER: CEO,neutral,0.5,META,0.0,0.0
+2023-09-01,*ROBLOX LAUNCHING ON META QUEST HEADSET TODAY: ZUCKERBERG,neutral,0.5,META,0.0,0.0
+2023-09-01,*META CEO MARK ZUCKERBERG SPEAKS AT CONNECT DEVELOPER CONFERENCE,neutral,0.5,META,0.0,0.0
+2023-09-01,*XBOX CLOUD GAMING COMES TO META QUEST 3 IN DECEMBER,neutral,0.5,META,0.0,0.0
+2023-09-01,"META: Meta AI chip executive to step down from position, Reuters reports",negative,0.0,META,0.0,0.0
+2023-09-01,*META EXECUTIVE LEADING CUSTOM AI CHIP EFFORTS TO LEAVE: REUTERS,neutral,0.5,META,0.0,0.0
+2023-09-01,"META: Meta to push for younger users with new AI chatbot characters, WSJ says",neutral,0.5,META,0.0,0.0
+2023-09-01,*META PLANS NEW AI CHATBOT CHARACTERS TO ATRACT YOUNG USERS: WSJ,neutral,0.5,META,0.0,0.0
+2023-09-01,*META SEEKS TO HAVE NEW AI MODEL READY NEXT YEAR: WSJ,positive,1.0,META,0.0,0.0
+2023-09-01,"*META DEVELOPING A NEW, MORE POWERFUL AI SYSTEM: WSJ",positive,1.0,META,0.0,0.0
+2023-09-01,"META: Many Llama AI researchers have quit Meta, Information reports",negative,0.0,META,0.0,0.0
+2023-08-01,[Delayed] NVDA: GenAI Drives Big Beat and Strong Visibility; Raising Ests/PT,positive,1.0,NVDA,-4.812178811791767,-1.0
+2023-08-01,"*GOOGLE CLOUD CLIENTS CAN ACCESS AI TOOLS FROM META, ANTHROPIC",neutral,0.5,META,-2.60295621455795,-1.0
+2023-08-01,"META: Meta introduces Code Llama, AI tool for coding",neutral,0.5,META,-2.60295621455795,-1.0
+2023-08-01,*META'S CODE LLAMA WILL BE OPEN SOURCE FOR USERS,neutral,0.5,META,-2.60295621455795,-1.0
+2023-08-01,*META RELEASES AI CODING SOFTWARE TO COMPETE WITH OPENAI,neutral,0.5,META,-2.60295621455795,-1.0
+2023-08-01,"*SENATOR WARNER WRITES GOOGLE, META, MICROSOFT CEOS ON AI SAFETY",neutral,0.5,META,-2.60295621455795,-1.0
+2023-08-01,META: Meta announces generative AI tool for audio and music,neutral,0.5,META,-2.60295621455795,-1.0
+2023-08-01,"META: Meta to launch AI chatbots with 'personas,' FT reports",neutral,0.5,META,-2.60295621455795,-1.0
+2023-07-01,*META CFO SAYS THE COMPANY IS INDUSTRY LEADING IN GENERATIVE AI,positive,1.0,META,,
+2023-07-01,"*META: CONTINUE TO INVEST IN OPPORTUNITIES, INCL AI, METAVERSE",positive,1.0,META,,
+2023-07-01,META: Meta rallies after New Street upgrade on AI efforts,positive,1.0,META,,
+2023-07-01,META: New Street upgrades Meta to Buy on 'very positive' AI feedback,positive,1.0,META,,
+2023-07-01,"META: Meta reveals more powerful AI, plans to provide its code for free, NYTimes says",neutral,0.5,META,,
+2023-07-01,"META: Meta to release commercial version of AI model LLaMA, FT reports",neutral,0.5,META,,
+2023-07-01,*META SET TO RELEASE COMMERCIAL VERSION OF ITS AI MODEL: FT,neutral,0.5,META,,
+2023-06-01,*META RELEASES AI INPUTS FOR ALGORITHMS IN TRANSPARENCY PUSH,neutral,0.5,META,0.0,0.0
+2023-06-01,META: Meta Platforms introduces 'Voicebox' AI for speech generation,neutral,0.5,META,0.0,0.0
+2023-06-01,"Dow Jones Falls As Traders See 99% Chance Of Rate Pause; META, AMD Rise In AI Rally -- IBD",negative,0.0,META,0.0,0.0
+2023-06-01,"Dow Jones Awaits Powell's 'Hawkish Pause' After Surprise Inflation Drop; META, AMD Rise In AI Rally As GOOGL Falls",negative,0.0,META,0.0,0.0
+2023-06-01,"Dow Jones Awaits Powell's 'Hawkish Pause' After Surprise Inflation Drop; META, AMD Rise In AI Rally As GOOGL Falls -- IBD",neutral,0.5,META,0.0,0.0
+2023-06-01,META: Meta Platforms price target raised to $330 from $300 at Wolfe Research,positive,1.0,META,0.0,0.0
+2023-06-01,META VP Of Infrastructure Arrives At AMD AI Event To Discuss Collaborations,neutral,0.5,META,0.0,0.0
+2023-06-01,"META: Meta releases AI-powered music generator, TechCrunch reports",neutral,0.5,META,0.0,0.0
+2023-11-01,"[Delayed] NVDA: Sustaining DC Momentum, China Compliant GPUs in 'Months', Software Monetization, & Much More - Reit OW; PT to",positive,1.0,NVDA,2.790313053750726,1.0
+2023-08-01,"Nvidia Breaks To New All-Time High, Flashes Signal The Local Top Is In: This NVDA Bear ETF Offers Leverage",positive,1.0,NVDA,-4.812178811791767,-1.0
+2023-08-01,NVDA: Nvidia approves additional $25B in share repurchases,positive,1.0,NVDA,-4.812178811791767,-1.0
+2023-08-01,"[Full Note] NVDA Forum with 3 Industry Executives: ""Tidal waves are coming."" - Outlook, Supply Chains, and More.",neutral,0.5,NVDA,-4.812178811791767,-1.0
+2023-12-01,"Analysts Bullish On Nvidia In 2024, But Is NVDA Stock A Buy Right Now?",neutral,0.5,NVDA,-2.6836309205602538,-1.0
+2023-12-01,"Nvidia Has Placed Orders With TSMC For Its China-Bound AI Processors That Necessitate SHR. The Commencement Of Fulfillment Is	 	BZG	12/2023	 	 	 	 _x000D_
+29)	 	 	NVDA: Nvidia 'can, will, and should' sell AI chips to China, Raimondo tells Reuters	 	FLY	12/2023	 	 	 	 _x000D_
+30)	 	 	AI chip sale talk proves China's heft for MNCs	 	CHD	12/2023	 	 	 	 _x000D_
+31)	 	 	ECB to Be First Major Central Bank to Move: Julius Baer (Video)	 	BLC	12/2023	 	 	 	 _x000D_
+32)	 	 	[Delayed] MU-WDC: Strong Pricing and Potential Restrictions Offset 1ß Supply - Raise Ests/PT	 	MZS	12/2023	 	 	 	 _x000D_
+33)	 	 	Nvidia Stock: Game Over Or Game On In 2024?	 	IBD	12/2023	 	 	 	 _x000D_
+34)	 	 	Nvidia Is the S&P 500's Top Stock This Year. Why This Analyst Thinks It Also Will Be Hot in 2024. -- Barrons.com	 	DJ	12/2023	 	 	 	 _x000D_
+35)	 	 	US talks with Nvidia reflect vital China role	 	CHD	12/2023	 	 	 	 _x000D_
+36)	 	 	Elon Musk wanted way more Nvidia chips for his Grok chatbot than Oracle could provide, Larry Ellison says	 	BDR	12/2023	 	 	 	 _x000D_
+37)	 	 	What's Going On With Nvidia Stock Tuesday?	 	BZG	12/2023	 	+01	 	 _x000D_
+38)	 	 	EU's AI Pact Likely Keeps US on Path to Light-Touch Legal Limits	 	BI	12/2023	 	 	 	 _x000D_
+39)	 	 	Nvidia CEO Sees Governments as Next Big AI Customer: Tech Daily	 	BN	12/2023	 	 	 	 _x000D_
+40)	 	 	Strong Action: The Bloomberg Close, Asia Edition	 	BN	12/2023	 	 	 	 _x000D_
+41)	 	 	US Looking Into Nvidia’s AI Chips for China, Raimondo Says (1)	 	BN	12/2023	 	+01	 	 _x000D_
+42)	 	 	Nvidia's AI Accelerators For China Under US Government Scrutiny	 	BZG	12/2023	 	 	 	 _x000D_
+43)	 	 	US Inflation, China AI Chip Alert, Fed’s Bond Slowdown: Eco Day	 	BN	12/2023	 	 	 	 _x000D_
+44)	 	 	US Is Looking Into Nvidia’s AI Chips for China: Raimondo (Video)	 	BLC	12/2023	 	 	 	 _x000D_
+45)	 	 	Dow Jones Futures: Magnificent Seven Stocks Slide; AI Giant Oracle Dives On Earnings; CPI Next -- IBD	 	DJ	12/2023	 	 	 	 _x000D_
+46)	 	 	Nvidia emerges as leading investor in AI companies	 	FTI	12/2023	 	 	 	 _x000D_
+47)	 	 	Market Chatter: Nvidia, US In Talks About Permissible AI Chip Sales to Chinese Firms	 	MTN	12/2023	 	 	 	 _x000D_
+48)	 	 	Raimondo Says Nvidia Can Sell Chips to China With Limits:Reuters	 	BFW	12/2023	 	 	 	 _x000D_
+49)	 	 	Wall Street Holds Back on Big Bets Before CPI Test: Markets Wrap	 	BN	12/2023	 	 	 	 _x000D_
+50)	 	 	AMD Is Set To Challenge Nvidia's Dominance And Amazon Is Going After Microsoft's Early-Start AI Advantage	 	BZG	12/2023	 	 	 	 _x000D_
+51)	 	 	U.S. Commerce Secretary Raimondo Says Nvidia Can, Will And Should Sell AI Chips To China"" For Commercial Purposes; Commerce",neutral,0.5,NVDA,-2.6836309205602538,-1.0
+2023-11-01,"NVDA: Nvidia delaying launch of new AI chip designed for China, Reuters reports",negative,0.0,NVDA,2.790313053750726,1.0
+2023-11-01,"NVDA: Nvidia beat may not have cleared very high bar, says Barclays",positive,1.0,NVDA,2.790313053750726,1.0
+2023-11-01,NVDA: Nvidia price target raised to $650 from $600 at JPMorgan,positive,1.0,NVDA,2.790313053750726,1.0
+2023-11-01,"[Delayed] NVDA: SC'23 Special Address Notes—H200 / GH200 (via HBM3e; Avail 1H2024), Jupiter Supercomputer w/ Quad-GH200, &",neutral,0.5,NVDA,2.790313053750726,1.0
+2023-11-01,NVDA: Nvidia announces availability of Ethernet networking platform for AI,neutral,0.5,NVDA,2.790313053750726,1.0
+2023-11-01,[Delayed] NVDA: DGX Cloud + AI Enterprise (Software) Monetization = $30/Sh+ Value Creation Ahead? Wells Pluggable Model (See Pg,neutral,0.5,NVDA,2.790313053750726,1.0
+2023-11-01,"NVDA: Nvidia's new AI products boost specs, counter competition, says BofA",positive,1.0,NVDA,2.790313053750726,1.0
+2023-11-01,NVDA: Nvidia to supercharge Hopper AI computing platform,neutral,0.5,NVDA,2.790313053750726,1.0
+2023-11-01,"NVDA: Nvidia develops 3 China-tailored AI chips, FT reports",neutral,0.5,NVDA,2.790313053750726,1.0
+2023-10-01,[Delayed] NVDA Strong Demand Offsets Broader AI Product Restrictions; Awaiting AMD/INTC,positive,1.0,NVDA,,
+2023-10-01,"NVDA: Nvidia, Lenovo announce expansion of hybrid AI partnership",positive,1.0,NVDA,,
+2023-10-01,"NVDA: Nvidia coming after Intel 'stronghold' in personal computers, Reuters says",positive,1.0,NVDA,,
+2023-10-01,NVDA: Nvidia collaborates with Foxconn to develop AI data centers,positive,1.0,NVDA,,
+2023-10-01,NVDA: Nvidia price target lowered to $575 from $630 at Citi,negative,0.0,NVDA,,
+2023-10-01,"NVDA: Upcoming U.S. rules on AI chip exports aim to stop workarounds, Reuters says",negative,0.0,NVDA,,
+2023-10-01,"In NVDA Vs. AMD, One Stock Has Emerged Clear Winner — But What Can You Expect Next In Chipmakers' AI Race?",neutral,0.5,NVDA,,
+2023-10-01,"NVDA: Nvidia to maintain market share despite OpenAI reports, says Citi",positive,1.0,NVDA,,
+2023-10-01,NVDA: Nvidia upgraded to Conviction Buy from Buy at Goldman Sachs,positive,1.0,NVDA,,
+2023-09-01,"NVDA: Arm now trading in rare territory, needs to figure out AI, Barron's says",neutral,0.5,NVDA,0.0,0.0
+2023-09-01,"*Nvidia, Tata To Build AI Supercomputer Powered by Nvidia GH200 Grace Hopper Superchip >NVDA",positive,1.0,NVDA,0.0,0.0
+2023-09-01,NVDA: Nvidia announces AI collaboration with Tata Group,neutral,0.5,NVDA,0.0,0.0
+2023-09-01,"*Nvidia Sets Collaboration With Tata Group to Deliver AI Computing Infrastructure, Platforms for Developing AI Solutions >NVDA",positive,1.0,NVDA,0.0,0.0
+2023-09-01,"NVDA: Nvidia, Reliance Industries announce pact to advance AI in India",positive,1.0,NVDA,0.0,0.0
+2023-09-01,"*Nvidia, Reliance Industries Partner to Advance AI in India, Build AI Infrastructure >NVDA",positive,1.0,NVDA,0.0,0.0
+2023-08-01,"NVDA: Biden blocks sale of Nvidia AI chips to Middle East, The Telegraph reports",neutral,0.5,NVDA,-4.812178811791767,-1.0
+2023-08-01,NVDA: Nvidia price target raised to $560 from $540 at UBS,positive,1.0,NVDA,-4.812178811791767,-1.0
+2023-08-01,NVDA: Nvidia price target raised to $590 from $530 at Mizuho,positive,1.0,NVDA,-4.812178811791767,-1.0
+2023-08-01,NVDA: Nvidia price target raised to $600 from $500 at JPMorgan,positive,1.0,NVDA,-4.812178811791767,-1.0
+2023-08-01,NVDA: Nvidia price target raised to $630 from $520 at Citi,positive,1.0,NVDA,-4.812178811791767,-1.0
+2023-08-01,"NVDA: Nvidia price target raised to $1,100 from $800 at Rosenblatt",positive,1.0,NVDA,-4.812178811791767,-1.0
+2023-08-01,NVDA: Nvidia price target raised to $560 from $440 at Deutsche Bank,positive,1.0,NVDA,-4.812178811791767,-1.0
