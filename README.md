@@ -13,38 +13,38 @@ Using NLP, sentiment analysis, and classification models, the project predicts w
 
 TFGBA2025/
 │
-├── data/
+├── data/raw
 │   ├── StockPAAPL.xlsx
 │   ├── StockPAMZN.xlsx
 │   ├── StockPGOOGL.xlsx
 │   ├── StockPMETA.xlsx
 │   ├── StockPNVDA.xlsx
 │   ├── newskeydefprueba_con_sentimiento.xlsx
-│   └── news_with_impact.csv
+│   
+├── data/processed
+│   ├── finbert_embeddings.csv
+│   ├── news_with_impact.csv
+│   ├── tfidf_top_tokens.csv
+│   ├── preprocess_data.py
 
+├── notebooks/
+│   ├── final_model_comparison.ipynb
 
-
-├── preprocessing/
-│   ├── check_columns.py
-│   └── preprocess_data.py
-
-
-
-├── models/
-│   ├── train_logreg_tfidf.py
-│   ├── train_lstm.py
-│   └── train_finbert.py
-
-
-
-├── outputs/
+├── results/
 │   ├── confusion_matrix_finbert.png
 │   ├── confusion_matrix_logreg.png
 │   ├── confusion_matrix_lstm.png
-│   ├── finbert_embeddings.csv
-│   ├── tfidf_top_tokens.csv
-│   └── final_model_comparison.ipynb
-│
+
+├── scripts/classical_models
+│   ├── train_logreg_tfidf.py
+
+├── scripts/deep_learning
+│   ├── train_lstm.py
+│   └── train_finbert.py
+
+├── scripts/preprocessing
+│   ├── preprocess_data.py
+
 └── README.md
 
 ## Models Trained
