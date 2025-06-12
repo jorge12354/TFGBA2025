@@ -21,16 +21,22 @@ TFGBA2025/
 │   ├── StockPNVDA.xlsx
 │   ├── newskeydefprueba_con_sentimiento.xlsx
 │   └── news_with_impact.csv
-│
+
+
+
 ├── preprocessing/
 │   ├── check_columns.py
 │   └── preprocess_data.py
-│
+
+
+
 ├── models/
 │   ├── train_logreg_tfidf.py
 │   ├── train_lstm.py
 │   └── train_finbert.py
-│
+
+
+
 ├── outputs/
 │   ├── confusion_matrix_finbert.png
 │   ├── confusion_matrix_logreg.png
